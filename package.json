@@ -1,5 +1,5 @@
 {
-  "name": "Herman-Chanel",
+  "name": "aiman*͘⁴̅⁰͍⁴̵〆*",
   "version": "1.0.0",
   "description": "JANGAN DI UBAH TOD LU CUMAN NUMPANG",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node HermanGans.js"
   },
-  "author": "nino,iky,KurrXd,ZeroYT7",
+  "author": "nino,iky,KurrXd,aiman*͘⁴̅⁰͍⁴̵〆*",
   "dependencies": {
   "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",
