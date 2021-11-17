@@ -227,7 +227,7 @@ LIST HARGA SEWA BOTZ
 ▢ PERBULAN 15K
 ▢ PERMANEN 40K
 MINAT HIBUNGI OWNER
-wa.me/6283146208804
+wa.me/60102810046
 
 KUMPUL DISNI BUAT PEMULA BOT
 https://chat.whatsapp.com/L9HTjy9FBJIBm3SfQS1pE5`
@@ -438,9 +438,9 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *DHA BOTZ*
-❏ API : @6282288265627
-❏ OWNER : *YUDHA PERDANA*
+❏ NAMA : *×͜× Aiman 亗ᴮᵒᵗ*
+❏ API : @60102810046
+❏ OWNER : *aiman*͘⁴̅⁰͍⁴̵〆**
 ❏ API : *@6282W87486762*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
